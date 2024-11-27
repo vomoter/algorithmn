@@ -1,0 +1,14 @@
+# This file is used to exclude files and directories from Git version control.
+
+# Ignore all files in this directory
+*.vscode
+
+# Ignore all compiled files
+*.o
+
+# Ignore all executable files
+*.exe
+*.out
+
+# Ignore all temporary files
+*.tmp
