@@ -3,12 +3,11 @@
 # Ignore all files in this directory
 .vscode/
 
-# Ignore all compiled files
+# Ignore all compiled and executable files
 *.o
-
-# Ignore all executable files
 *.exe
 *.out
+
 
 # Ignore all temporary files
 *.tmp
